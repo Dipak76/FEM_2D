@@ -1,0 +1,1 @@
+For running the code with different input meshes, copy the files "connectivity.txt" and "coordinate.txt" from the folder "mesh_data_for_input" to the folder named "Input".
